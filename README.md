@@ -7,6 +7,7 @@ AI assistant with SignTranslation and Covid Tools (mask detection, automated sms
 - Stats about weather, location, time, user program/events, keep notes etc
 - Covid SMS for permission (automated), if permassion accepted checks id users wears mask (mask recognition code ideas from balajisrinivas)
 - Developer menu
+- SQLite
 
 DEMO VIDEO:
 - Ai Assistant part 1: https://youtu.be/Atp1gLkuDfg
